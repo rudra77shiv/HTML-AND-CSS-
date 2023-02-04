@@ -1,0 +1,18 @@
+style7 {
+	font-size: 36px;
+	font-weight: bold;
+	color: #FF8600;
+}
+.style8 {font-size: 24px}
+.style9 {
+	font-size: 36px;
+	font-weight: bold;
+}
+body {
+	background-image: url(1.jpg);
+	background-repeat: repeat-x;
+}
+.style10 {font-size: 54px}
+.style11 {
+	font-size: 36px;
+	color: #FF8000;}

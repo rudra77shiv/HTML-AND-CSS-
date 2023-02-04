@@ -1,0 +1,11 @@
+body,td,th {
+    font-size: 36px;
+    color: #000000;
+}
+.style6 {font-size: 24px}
+.style7 {font-size: 36px; }
+body {
+    background-image: url(1.jpg);
+    background-repeat: repeat-x;
+}
+.style8 {font-size: 36px; color: #FF8000;}

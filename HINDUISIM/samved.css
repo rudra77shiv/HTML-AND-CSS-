@@ -1,0 +1,15 @@
+style1 {
+  color: #ff0000;
+  font-size: 36px;
+}
+.style3 {
+  font-size: 24px;
+}
+.style4 {
+  color: #ff8000;
+  font-size: 45px;
+}
+body {
+  background-image: url(1.jpg);
+  background-repeat: repeat-x;
+}

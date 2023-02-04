@@ -1,0 +1,18 @@
+.style1 {
+  font-size: 36px;
+  color: #ff8000;
+}
+.style2 {
+  font-size: 16px;
+  color: #6600cc;
+}
+.style3 {
+  font-size: 24px;
+}
+body {
+  background-image: url(1.jpg);
+  background-repeat: repeat-x;
+}
+.style4 {
+  font-size: 16px;
+}
